@@ -19,7 +19,10 @@ namespace toetsoef
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Maggie");
+            for (int teller = 0; teller < 5; teller++)
+            {
+                MessageBox.Show("Maggie");
+            }
         }
     }
 }
