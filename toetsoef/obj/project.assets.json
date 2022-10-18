@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\toetsgip\\toetsoef\\toetsoef\\toetsoef.csproj",
+      "projectUniqueName": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef3dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj",
       "projectName": "toetsoef",
-      "projectPath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\toetsgip\\toetsoef\\toetsoef\\toetsoef.csproj",
+      "projectPath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef3dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj",
       "packagesPath": "C:\\Users\\maggi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\toetsgip\\toetsoef\\toetsoef\\obj\\",
+      "outputPath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef3dir\\HelloWordl1970\\toetsoef\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maggi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,10 +51,17 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.28, 3.1.28]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -63,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

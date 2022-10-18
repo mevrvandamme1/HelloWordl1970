@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kAHP9f9/TvZZP0d9hPM0xQOpJDSBvCx5wC21wMSzSgLBm7h1A/5t3SNFV+I1Pp2YdNnyYToKbWeSTvzKKP+zVA==",
+  "dgSpecHash": "zsss9W/gxk0IfO5C2C9D2X/iboUWMl70tlvy4Umn7iGksEq2lZuWp0BF0WCnL9txhnqzSKw4pdKQZgO6pXreyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\toetsgip\\toetsoef\\toetsoef\\toetsoef.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef3dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maggi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
   "logs": []
 }
