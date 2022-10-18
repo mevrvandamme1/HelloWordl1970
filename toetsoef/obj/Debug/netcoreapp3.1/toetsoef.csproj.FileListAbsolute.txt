@@ -4,7 +4,6 @@ C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\bin\De
 C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\bin\Debug\netcoreapp3.1\toetsoef.runtimeconfig.dev.json
 C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\bin\Debug\netcoreapp3.1\toetsoef.dll
 C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\bin\Debug\netcoreapp3.1\toetsoef.pdb
-C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\Debug\netcoreapp3.1\toetsoef.csprojAssemblyReference.cache
 C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\Debug\netcoreapp3.1\toetsoef.Form1.resources
 C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\Debug\netcoreapp3.1\toetsoef.csproj.GenerateResource.cache
 C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\Debug\netcoreapp3.1\toetsoef.AssemblyInfoInputs.cache
@@ -13,3 +12,5 @@ C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\De
 C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\Debug\netcoreapp3.1\toetsoef.dll
 C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\Debug\netcoreapp3.1\toetsoef.pdb
 C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\Debug\netcoreapp3.1\toetsoef.genruntimeconfig.cache
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\Debug\netcoreapp3.1\toetsoef.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documenten\mama school\toetsgip\toetsoef\toetsoef\obj\Debug\netcoreapp3.1\toetsoef.GeneratedMSBuildEditorConfig.editorconfig
