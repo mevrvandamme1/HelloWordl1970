@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef3dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj": {}
+    "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef4dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef3dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj": {
+    "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef4dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef3dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj",
+        "projectUniqueName": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef4dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj",
         "projectName": "toetsoef",
-        "projectPath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef3dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj",
+        "projectPath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef4dir\\HelloWordl1970\\toetsoef\\toetsoef.csproj",
         "packagesPath": "C:\\Users\\maggi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef3dir\\HelloWordl1970\\toetsoef\\obj\\",
+        "outputPath": "C:\\Users\\maggi\\OneDrive\\Documenten\\mama school\\oef4dir\\HelloWordl1970\\toetsoef\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maggi\\AppData\\Roaming\\NuGet\\NuGet.Config",
